@@ -1,0 +1,9 @@
+# Project exclude paths
+/flume-interceptor/target/
+/log-collector/target/
+/spark_project/target/
+/SqlFile/target/
+/UserBehaviorAnalysis/HotItemsAnalysis/target/
+/UserBehaviorAnalysis/LoginFailDetect/target/
+/UserBehaviorAnalysis/NetworkTrafficAnalysis/target/
+/UserBehaviorAnalysis/OrderTimeoutDetect/target/
